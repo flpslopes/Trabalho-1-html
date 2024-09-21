@@ -1,0 +1,169 @@
+exercício 1 :
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Lista 1 – Questão 1</title>
+     </head>
+<body>
+    <p>Tenho vontade de conhecer os Estados Unidos, seus prédios e ruas modernos e clássicos, experimentar uma nova culinária e também suas festas universitárias,com isso tudo ampliando o meu conhecimento da língia inglesa conversando com nativos </p>
+</body>
+</html> 
+ <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+            margin: 20px;
+        }
+        p {
+            color:#754444;
+            font-size: 18px;
+        }
+    </style>
+
+exercício 2 : 
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista 1 - Questão 2</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f9f9f9;
+        }
+        p { color:#754444;
+            font-size: 16px;
+            margin: 20px;
+        }
+    </style>
+</head>
+<body>
+    <p>
+        O site <a href="https://code.org/" target="_blank" rel="noopener noreferrer">Code.org</a> é um grande facilitador para pessoas que querem embarcar no mundo da computação, oferecendo material de estudo para estudantes de todas as idades, além de uma série de recursos gratuitos.
+    </p>
+</body>
+</html>
+
+exercício 3:
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista 1 - Questão 3</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #585858;
+        }
+
+        p {
+            color: #754444;
+            font-size: 16px;
+            margin: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>Diferença entre Linguagem Server Side e Client Side</h1>
+        <p>Server Side é executado no servidor, processando dados e gerando conteúdo dinâmico.</p>
+        <p>Client Side roda no navegador, manipulando a interface do usuário.</p>
+
+        <h2>Exemplos:</h2>
+        <ul>
+            <li>Server Side: PHP, Python , Ruby, Java.</li>
+            <li>Client Side: JavaScript, HTML, CSS.</li>
+        </ul>
+    </div>
+</body>
+</html>
+
+    </div>
+</body>
+</html>
+
+execício 4:
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <title>Lista 1 - Questão 4</title>
+    <style>
+        body {
+            font-family: "Courier New", Courier, monospace;
+            background-color: #f2f4f4;
+            margin: 20px;
+        }
+        h1 {
+            color: #16a085;
+        }
+        p {
+            color: #2c3e50;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+    <h1>O que é Semântica no HTML5?</h1>
+    <p>Semântica é o estudo do significado e da interpretação das palavras. Aplicar esse conceito ao HTML significa que buscamos um melhor entendimento do conteúdo por parte dos computadores e usuários, portanto o HTML Semântico é um método de codificação que prioriza o significado e o contexto das tags HTML </p>
+</body>
+</html>
+
+exercício 5:
+
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista 1 – Questão 5</title>
+</head>
+<body>
+    <h1>Bandeiras oficiais nacionais</h1>
+    <h2>América do Sul</h2>
+    <p><a href="https://pt.wikipedia.org/wiki/Brasil" target="_blank">Brasil</a></p>
+    <a href="https://pt.wikipedia.org/wiki/Brasil" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Flag_of_Brazil.svg" alt="Bandeira do Brasil" width="150">
+    </a>
+    <h2>Europa</h2>
+    <p><a href="https://pt.wikipedia.org/wiki/França" target="_blank">França</a></p>
+    <a href="https://pt.wikipedia.org/wiki/França" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/c/c3/Flag_of_France.svg" alt="Bandeira da França" width="150">
+    </a>   
+    <h2>Ásia</h2>
+    <p><a href="https://pt.wikipedia.org/wiki/Jap%C3%A3o" target="_blank">Japão</a></p>
+    <a href="https://pt.wikipedia.org/wiki/Jap%C3%A3o" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/9/9e/Flag_of_Japan.svg" alt="Bandeira do Japão" width="150">
+    </a>
+    <h2>América do Norte</h2>
+    <p><a href="https://pt.wikipedia.org/wiki/Estados_Unidos" target="_blank">Estados Unidos</a></p>
+    <a href="https://pt.wikipedia.org/wiki/Estados_Unidos" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/a/a4/Flag_of_the_United_States.svg" alt="Bandeira dos Estados Unidos" width="150">
+    </a>
+
+</body>
+</html>
+
+
+
+
+-------------
+
+felipe lopes ferreira 202403458039
+
+
+
+
+
+
